@@ -269,7 +269,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.validation</groupId>
@@ -294,37 +294,37 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.5.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.5.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.5.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jdbc</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-dbcp</groupId>
@@ -334,27 +334,27 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-mobile</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.5.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.5.15.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-batch</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>com.lmax</groupId>
@@ -364,12 +364,12 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-remote-shell</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-integration</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
@@ -389,22 +389,22 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.4.5.RELEASE</version>
 		</dependency>
 	</dependencies>
 	<build>
