@@ -9,9 +9,7 @@
     <version>1.0.0-BUILD-SNAPSHOT</version>
     <properties>
         <java-version>1.6</java-version>
-        <org.springframework-version>
-            3.2.3.RELEASE
-        </org.springframework-version>
+        <org.springframework-version>3.2.9.RELEASE</org.springframework-version>
         <hibernate.version>4.2.0.Final</hibernate.version>
         <org.aspectj-version>1.6.10</org.aspectj-version>
         <org.slf4j-version>1.6.6</org.slf4j-version>
@@ -155,14 +153,14 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>4.0.1.Final</version>
+            <version>5.4.24.Final</version>
         </dependency>
 
 
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
-            <version>4.0.1.Final</version>
+            <version>5.4.24.Final</version>
         </dependency>
 
         <dependency>
@@ -267,7 +265,7 @@
         <dependency>
             <groupId>org.springframework.mobile</groupId>
             <artifactId>spring-mobile-device</artifactId>
-            <version>1.1.1.RELEASE</version>
+            <version>1.1.4.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -279,7 +277,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>javax.validation</groupId>
@@ -304,37 +302,37 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>commons-dbcp</groupId>
@@ -344,27 +342,27 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-mobile</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>1.5.15.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.0.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-batch</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>com.lmax</groupId>
@@ -374,22 +372,22 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-integration</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.1.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-redis</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>1.4.5.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-remote-shell</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>1.5.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.liquibase</groupId>
             <artifactId>liquibase-core</artifactId>
-            <version>3.1.1</version>
+            <version>3.3.1</version>
         </dependency>
         <dependency>
             <groupId>net.wimpi</groupId>
